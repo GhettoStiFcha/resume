@@ -9,7 +9,7 @@
     --bs-btn-hover-color: var(--main-yellow);
     --bs-btn-hover-bg: #000;
     --bs-btn-hover-border-color: #000;
-    --bs-btn-focus-shadow-rgb: 13,110,253;
+    --bs-btn-focus-shadow-rgb: rgb(248, 243, 43);
     --bs-btn-active-color: var(--main-yellow);
     --bs-btn-active-bg: #000;
     --bs-btn-active-border-color: #000;
