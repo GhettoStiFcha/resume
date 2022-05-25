@@ -18,3 +18,9 @@
     --bs-btn-disabled-bg: transparent;
     --bs-gradient: none;
 }
+
+@media screen and (max-width:450px) {
+    .fs-6{
+        font-size: 0.7rem!important;
+    }
+}
